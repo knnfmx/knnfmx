@@ -1,114 +1,83 @@
-[![Header](assets/images/header.gif)](https://knnfmx.github.io/rsschool-cv)
+[![Header](assets/images/header.gif)](https://knnfmx.github.io/rsschool-cv-old)
 
-<h1 align='center'>Howdy, y'all  :wave: . Welcome to my GitHub profile!</h1>
+<h1 align="center">Howdy, y'all :wave:<br>Welcome to my GitHub profile!</h1>
 
-## &#x270d; Little about me 
+## 🧑‍💻 About me
 
+Hi, I'm **Anton** — a Front-end developer who cares equally about clean code and good design.
 
-My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="smile with sunglass" width="30"><br> I'm a Front-end developer. I can both write clean code and design the graphic. I love programming, exploring, and learning about new things, and am proud of my results. And at the moment, working as a freelancer, I improve my level in various fields. I'm also interested in 3D graphics, IoT, Game dev, Web 3.0 and I like to do DIY projects with Raspberry Pi.
+- 🎨 I build interfaces that look as good as they work
+- 🧠 Currently practicing **Fullstack development**, sharpening my skills in **JavaScript (ES6+), React, TypeScript**, and a bit of **Python**
+- 🤖 Actively integrating **AI tools** into my development workflow to boost efficiency and explore new possibilities
+- 🧪 Exploring **3D graphics, IoT, GameDev, Web 3.0**, and DIY projects with **Raspberry Pi**
+- 💼 Working as a freelancer and open to new challenges
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="cat at notebook" width="30"> Technologies & Tools
+## 🛠️ Tech Stack
 
+**Main:**
 
-Main stack:
-
-
-👨‍🎓 I’m currently practice JavaScript(ES6+), ReactJS, TypeScript. And some Python.
-
-
-![html](https://img.shields.io/badge/-html5-d7f100?style=for-the-badge&logo=html5&logoColor=0d1117)
-![css](https://img.shields.io/badge/-css3-d7f100?style=for-the-badge&logo=css3&logoColor=0d1117)
+![HTML5](https://img.shields.io/badge/-HTML5-d7f100?style=for-the-badge&logo=html5&logoColor=0d1117)
+![CSS3](https://img.shields.io/badge/-CSS3-d7f100?style=for-the-badge&logo=css3&logoColor=0d1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-d7f100?style=for-the-badge&logo=javascript&logoColor=0d1117)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-00bbb8?style=for-the-badge&logo=typescript&logoColor=0d1117)
-![ReactJS](https://img.shields.io/badge/-React-00bbb8?style=for-the-badge&logo=React&logoColor=0d1117)
-![NodeJS](https://img.shields.io/badge/-Node.JS-00bbb8?style=for-the-badge&logo=Node.js&logoColor=0d1117)
+![React](https://img.shields.io/badge/-React-00bbb8?style=for-the-badge&logo=react&logoColor=0d1117)
+![Node.js](https://img.shields.io/badge/-Node.js-00bbb8?style=for-the-badge&logo=node.js&logoColor=0d1117)
 
+**Tooling & extra:**
 
-<p>
-  <a href="https://github.com/knnfmx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knnfmx&layout=compact&theme=highcontrast" alt="readme stats"/>
-  </a>
-</p>
+![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=d7f100)
+![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=webpack&logoColor=d7f100)
+![Sass](https://img.shields.io/badge/-Sass-0d1117?style=for-the-badge&logo=sass&logoColor=d7f100)
+![Less](https://img.shields.io/badge/-Less-0d1117?style=for-the-badge&logo=less&logoColor=d7f100)
 
+**Design:**
 
-### Extra skills:
+![Figma](https://img.shields.io/badge/-Figma-0d1117?style=for-the-badge&logo=figma&logoColor=d7f100)
+![Photoshop](https://img.shields.io/badge/-Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=d7f100)
+![Illustrator](https://img.shields.io/badge/-Illustrator-0d1117?style=for-the-badge&logo=adobeillustrator&logoColor=d7f100)
 
-
-![gitbash](https://img.shields.io/badge/-Gitbash-0d1117?style=for-the-badge&logo=git&logoColor)
-![webpack](https://img.shields.io/badge/-webpack-0d1117?style=for-the-badge&logo=webpack&logoColor)
-![sass](https://img.shields.io/badge/-sass-0d1117?style=for-the-badge&logo=sass&logoColor)
-![less](https://img.shields.io/badge/-less-0d1117?style=for-the-badge&logo=less&logoColor)
-
-
-### Graphic skills:
-
-
-![Figma](https://img.shields.io/badge/-figma-0d1117?style=for-the-badge&logo=Figma)
-![Photoshop](https://img.shields.io/badge/-PhotoShop-0d1117?style=for-the-badge&logo=adobePhotoShop)
-![Illustrator](https://img.shields.io/badge/-Illustrator-0d1117?style=for-the-badge&logo=adobeIllustrator)
-
-
-## I will be glad to offers for new experience:
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="assets/CV-2023n.pdf" style="cursor: pointer">
-    <img width="170" src="assets/images/CV-2023n.jpg" alt="CV preview">
+  <a href="https://github.com/knnfmx">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=knnfmx&show_icons=true&title_color=d7f100&icon_color=00bbb8&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/knnfmx">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knnfmx&layout=compact&title_color=d7f100&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/knnfmx">
+    <img height="165" src="https://streak-stats.demolab.com?user=knnfmx&theme=dark&hide_border=true&background=0D1117&stroke=d7f100&ring=d7f100&fire=d7f100&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00bbb8&sideLabels=00bbb8&dates=ffffff" alt="GitHub Streak" />
   </a>
 </p>
 
+## 📌 Currently working on
 
-<p>📄 Current CV is available for
-  <a href="https://github.com/knnfmx/knnfmx/raw/9c3e9cc43a0365ea514e6bc8a34aa61eb0c8b837/assets/CV-2023n.pdf" download color: # 00bbb8> download</a>
-</p> 
-
-<p>📧 E-mail:
-  <a href="mailto:fmxhighlife@gmail.com" color: # 00bbb8>fmxhighlife@gmail.com</a>
+<p align="center">
+  <a href="https://github.com/knnfmx/south-park-phone-destroyer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=knnfmx&repo=south-park-phone-destroyer&show_owner=true&theme=highcontrast" alt="south-park-phone-destroyer repo card"/>
+  </a>
 </p>
 
-## Additional Info
-<details>
-  <summary color: # 00bbb8> 💡 Working on </summary>
-  <br>
-  <p align="center">
-    <a href="https://github.com/knnfmx/south-park-phone-destroyer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=knnfmx&repo=south-park-phone-destroyer&show_owner=true&theme=highcontrast" alt="readme work on"/>
-    </a>
-  </p>
-</details>
-
-
-<details>
-  <summary color: # 00bbb8> &#x1f4c8; GitHub Stats </summary>
-  <br>
-  <p align="center">
-    <a href="https://github.com/knnfmx">
-      <img src="https://github-readme-stats.vercel.app/api?username=knnfmx&count_private=true&show_icons=true&theme=highcontrast" alt="readme stats"/>
-    </a>
-  </p>
-</details>
-
-
-### Other achievements:
+## 🏆 Achievements
 
 <a href="https://www.codewars.com/users/knnfmx">
-  <img src="https://www.codewars.com/users/knnfmx/badges/small" alt="codewars badge">
+  <img src="https://www.codewars.com/users/knnfmx/badges/small" alt="Codewars badge">
 </a>
 
-## 🖖 You can find me around the web
-
+## 🌐 Find me around the web
 
 [![Codewars](https://img.shields.io/badge/-Codewars-d7f100?style=for-the-badge&logo=codewars&logoColor=0d1117)](https://www.codewars.com/users/knnfmx)
-[![HackerRank](https://img.shields.io/badge/-hackerrank-d7f100?style=for-the-badge&logo=hackerrank&logoColor=0d1117)](https://www.hackerrank.com/knnfmx)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-d7f100?style=for-the-badge&logo=linkedIn&logoColor=0d1117)](https://www.linkedin.com/in/knnfmx/)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-d7f100?style=for-the-badge&logo=stackoverflow&logoColor=0d1117)](https://stackexchange.com/users/20613866/kennyfmx)
-[![Instagram](https://img.shields.io/badge/-Instagram-00bbb8?style=for-the-badge&logo=instagram&logoColor=0d1117)](https://instagram.com/kennyfmx)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-d7f100?style=for-the-badge&logo=hackerrank&logoColor=0d1117)](https://www.hackerrank.com/knnfmx)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00bbb8?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://www.linkedin.com/in/knnfmx/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-00bbb8?style=for-the-badge&logo=stackoverflow&logoColor=0d1117)](https://stackexchange.com/users/20613866/kennyfmx)
+[![Instagram](https://img.shields.io/badge/-Instagram-d7f100?style=for-the-badge&logo=instagram&logoColor=0d1117)](https://instagram.com/kennyfmx)
 [![Facebook](https://img.shields.io/badge/-Facebook-00bbb8?style=for-the-badge&logo=facebook&logoColor=0d1117)](https://www.facebook.com/Kennyfmx)
-[![VK](https://img.shields.io/badge/-vkontakte-00bbb8?style=for-the-badge&logo=vk&logoColor=0d1117)](https://vk.com/kennyfmx)
+[![VK](https://img.shields.io/badge/-VK-00bbb8?style=for-the-badge&logo=vk&logoColor=0d1117)](https://vk.com/kennyfmx)
 
-<h2 align="center" style="color: #00bbb8">If you liked ❤️ my profile, then you can put a star ⭐ and subscribe to my updates. <br> see ya! 
-  <img src="assets/images/wave-hand.gif" alt="shake hand" width="30">
-</h2>
+📧 **Email:** [itkennywise@gmail.com](mailto:itkennywise@gmail.com)
+
+<h2 align="center">If you liked ❤️ my profile, drop a ⭐ and follow my updates.<br>See ya! <img src="assets/images/wave-hand.gif" alt="wave hand" width="30"></h2>
+
 <p align="center">
-  <img width="300" src="assets/images/cyberpunk-glitch.gif" alt="cyber-punk img" style="border-radius:5px">
+  <img width="300" src="assets/images/cyberpunk-glitch.gif" alt="cyberpunk glitch" style="border-radius:5px">
 </p>
-
