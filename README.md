@@ -40,13 +40,13 @@ Hi, I'm **Anton** — a Front-end developer who cares equally about clean code a
 
 <p align="center">
   <a href="https://github.com/knnfmx">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=knnfmx&show_icons=true&title_color=d7f100&icon_color=00bbb8&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.shion.dev/api?username=knnfmx&show_icons=true&title_color=d7f100&icon_color=00bbb8&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/knnfmx">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knnfmx&layout=compact&title_color=d7f100&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=knnfmx&layout=compact&title_color=d7f100&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
   <a href="https://github.com/knnfmx">
-    <img height="165" src="https://streak-stats.demolab.com?user=knnfmx&theme=dark&hide_border=true&background=0D1117&stroke=d7f100&ring=d7f100&fire=d7f100&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00bbb8&sideLabels=00bbb8&dates=ffffff" alt="GitHub Streak" />
+    <img height="165" src="https://gitcard-studio.creativecode.com.co/api/streak?username=knnfmx&theme=dark&locale=en" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@ Hi, I'm **Anton** — a Front-end developer who cares equally about clean code a
 
 <p align="center">
   <a href="https://github.com/knnfmx/south-park-phone-destroyer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=knnfmx&repo=south-park-phone-destroyer&show_owner=true&theme=highcontrast" alt="south-park-phone-destroyer repo card"/>
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=knnfmx&repo=south-park-phone-destroyer&show_owner=true&theme=highcontrast" alt="south-park-phone-destroyer repo card"/>
   </a>
 </p>
 
